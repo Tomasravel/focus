@@ -1,0 +1,17 @@
+Prediction for: 52 weeks
+Model Time Granularity: Weekly
+
+Customers modeled: 638
+Transactions observed: 2074
+
+Frequency Model: MBG/NBD
+Model Parameters
+r: 0.688457346574504
+alpha: 9.147687680502104
+a: 0.4386835555975856
+b: 0.8075033925217486
+
+Gamma-Gamma Parameters
+p: 8.642099379679802
+q: 3.6299644217902913
+v: 10.513500119744732

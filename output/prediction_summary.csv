@@ -1,0 +1,6 @@
+segment,average_retention_probability,average_predicted_customer_value,average_predicted_order_value,average_predicted_purchases,total_customer_value,number_of_customers,perc_of_total_customer_value
+1,0.81,168.62,43.63,3.96,21583.0,128,84.41
+2,0.54,21.19,40.65,0.77,2712.72,128,10.61
+3,0.25,5.35,44.6,0.14,684.87,128,2.68
+4,0.26,2.81,26.02,0.11,356.86,127,1.4
+5,0.25,1.83,18.47,0.1,232.63,127,0.91
